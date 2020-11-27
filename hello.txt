@@ -7,7 +7,7 @@ Hello World! Hello Git!
 Hello World! Hello Git!$$$$$$$$$$$$$$$$$$$mmmm
 Hello World! Hello Git!
 Hello World! Hello Git!################### hhhhhh
-Hello World! Hello Git! master test
 Hello World! Hello Git!
+Hello World! Hello Git! master test
 Hello World! Hello Git!
 Hello World! Hello Git!
